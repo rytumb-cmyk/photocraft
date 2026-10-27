@@ -735,8 +735,8 @@
 	Curve	Kreivė
 	Exposure…	Ekspozicija…
 	Exposure	Ekspozicija
-	Vibrance…	Natūralumas…
-	Vibrance	Natūralumas
+	Vibrance…	Selektyvus sodrumas…
+	Vibrance	Selektyvus sodrumas
 	Hue/Saturation…	Atspalvis / sodrumas…
 	Hue	Atspalvis
 	Saturation	Sodrumas
@@ -2410,7 +2410,7 @@ cameraRaw	Light	Plonas
 	Aqua	Žydra
 cameraRaw	Amount	Kiekis
 cameraRaw	Blacks	Juodi tonai
-cameraRaw	Vibrance	Natūralumas
+cameraRaw	Vibrance	Selektyvus sodrumas
 cameraRaw	Color Grading	Spalvų tonavimas
 cameraRaw	Lights	Šviesūs tonai
 cameraRaw	Darks	Tamsūs tonai
